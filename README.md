@@ -11,8 +11,8 @@ The RFID module needs to be connected with six pins to the Micro:bit:
 | ------------- |:-------------:|
 | VCC           | 3V            |
 | GND           | GND           |
-| MISO          | P15           |
-| MOSI          | P14           |
+| MISO          | P14           |
+| MOSI          | P15           |
 | SCK           | P13           |
 | NSS           | P16           |
 
