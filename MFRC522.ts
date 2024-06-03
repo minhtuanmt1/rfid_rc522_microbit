@@ -413,7 +413,7 @@ namespace MFRC522 {
     /*
      * Initial setup
      */
-    //% block="Initialize MFRC522 Module"
+    //% block="Initialize MFRC522 Module Tuan"
     //% weight=100
    export function Init() {
        pins.spiPins(DigitalPin.P15, DigitalPin.P14, DigitalPin.P13)
